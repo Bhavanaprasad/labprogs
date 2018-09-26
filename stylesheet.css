@@ -1,0 +1,27 @@
+students {
+ background: orange;
+ margin-left: 400px;
+ margin-right: 400px;
+ }
+ student {
+ display:block;
+ margin:50px;
+ }
+ name {
+	 display:block;
+ }
+ usn  {
+	 display:block;
+ }
+ email{
+	 display:block;
+ }
+ college{
+	  display:block;
+ }
+ branch{
+	  display:block;
+ }
+ year{
+	  display:block;
+ }
